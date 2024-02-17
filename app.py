@@ -5,7 +5,7 @@ from keras.applications.vgg16 import preprocess_input
 import numpy as np
 
 # Load the pre-trained model
-model = load_model('model.h5')
+model = load_model('our_model.h5')
 
 def predict_pneumonia(img):
     """Predict whether an image is of a person with pneumonia."""
