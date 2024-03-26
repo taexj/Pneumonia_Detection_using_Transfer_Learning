@@ -16,7 +16,7 @@ We employ transfer learning using pre-trained VGG16 as a starting point. The mod
 Ensure you have Python 3.6+ installed. Then, clone this repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/Pneumonia_Detection_using_Transfer_Learning.git
+git clone https://github.com/taexj/Pneumonia_Detection_using_Transfer_Learning.git
 cd Pneumonia_Detection_using_Transfer_Learning
 pip install -r requirements.txt
 
